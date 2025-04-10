@@ -1,1 +1,1 @@
-hello
+print("Nova correcao do main para treinar")
